@@ -1,5 +1,5 @@
 # To-Do-List-Project
-Welcome to the To Do List Project developed during my internship at CodeClause as a Web Developer Intern. This simple yet handy tool allows users to add their To Do List. It was created as a task during my internship to showcase my coding skills and understanding of basic programming concepts.
+Welcome to the To Do List Project developed during my internship at CodeClause as a Web Developer Intern. This simple yet handy tool allows users to add their To Do List. It was created as a task during my internship to showcase my coding skills in <b>HTML, CSS and JAVASCRIPT</b> and understanding of basic programming concepts.
 
 ## Key Features
 
