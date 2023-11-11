@@ -9,7 +9,7 @@ Welcome to theTo Do List Project developed during my internship at CodeClause as
 
 ## Demo
 
-Check out the [Live Demo]() to see the To Do List in Action.
+Check out the [Live Demo](https://shantanugopale.github.io/To-Do-List-Project/) to see the To Do List in Action.
 
 ## Getting Involved
 
